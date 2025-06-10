@@ -67,7 +67,7 @@ PromptPunk/ (Your Git Repository Root)
 ### Live Demo
 
 Access the production deployment directly:
-👉 [promptpunk.vercel.app](https://promptpunk.vercel.app)
+👉 [PromptPunk](https://dumb-kid-root.github.io/PromptPunk/)
 
 *(Note: The Vercel demo might not reflect the latest changes aimed at GitHub Pages deployment unless updated separately.)*
 
